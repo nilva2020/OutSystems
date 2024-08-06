@@ -10,10 +10,12 @@ OutSystems - Low Code
 
 Service Studio
 
-## Bootcamp
+---
+## Bootcamp 
 
-https://www.beproinstitute.com
+<img src="img/bepro_logo.png" width="50px" height="50px"/>
 
-### Developer
+---
+### Developer 
 
-Nilva Pires - 2024
+**Nilva Pires - 2024**
