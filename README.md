@@ -13,7 +13,7 @@ Service Studio
 ---
 ## Bootcamp 
 
-<img src="img/bepro_logo.png" width="50px" height="50px"/>
+<img src="img/bepro_logo.png" width="100px" height="100px"/>
 
 ---
 ### Developer 
