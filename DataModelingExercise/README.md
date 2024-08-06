@@ -4,7 +4,8 @@
 
 
 ## Objetivo:
-    Este exercício foi proposto para praticar a criação de Entidades no OutSystems e familiarizar com o ambiente de desenvolvimento Service Studio.
+
+Este exercício foi proposto para praticar a criação de Entidades no OutSystems e familiarizar com o ambiente de desenvolvimento Service Studio.
 
 ### Conhecimentos aplicados:
 
@@ -29,4 +30,9 @@
 
 ---
 
-<p text-align="center">🔸Projeto Bootcamp OutSystems 🔸BePRO Instituto 🔸Agosto 2024</p>
+<img src="img/logo2.png" width="50px" height="50px"/>
+<img src="img/bepro_logo.png" width="50px" height="50px"/> 
+
+Agosto 2024</p>
+
+
