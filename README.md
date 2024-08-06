@@ -1,4 +1,4 @@
-![logo](img\logo.png)
+![logo](img/logo.png)
 
 Este repositório tem o objetivo de apresentar os registros fotográficos dos projetos desenvolvidos durante o Bootcamp OutSystems promovido pela BePRO Institute.
 
